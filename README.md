@@ -9,7 +9,7 @@ Anaconda - Python 3.7
 Import cv2 and save and image as filename.jpg
 
 ### Step2:
-Use imread(filename, flags) to read the file.
+Use imread(filename, flags) to read the file
 
 ### Step3:
 Use cv2.cvtColor(src, code, dst, dstCn) to convert an image from one color space to another.
